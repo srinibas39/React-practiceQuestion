@@ -4,6 +4,8 @@ import App11 from "./App11";
 import App13 from "./App13";
 import App14 from "./App14/App14";
 import App15 from "./App15";
+import App16 from "./App16";
+import App17 from "./App17";
 
 import App2 from "./App2";
 import App3 from "./App3";
@@ -57,7 +59,10 @@ const App=()=>{
   <Like/>
   <h1>---------------------------------------------------------------------</h1>
   <App15/>
-
+  <h1>---------------------------------------------------------------------</h1>
+  <App16/>
+  <h1>---------------------------------------------------------------------</h1>
+  <App17/>
   </>
 
 }
