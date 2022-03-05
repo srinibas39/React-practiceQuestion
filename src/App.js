@@ -6,6 +6,7 @@ import App14 from "./App14/App14";
 import App15 from "./App15";
 import App16 from "./App16";
 import App17 from "./App17";
+import App18 from "./App18";
 
 import App2 from "./App2";
 import App3 from "./App3";
@@ -63,6 +64,8 @@ const App=()=>{
   <App16/>
   <h1>---------------------------------------------------------------------</h1>
   <App17/>
+  <h1>---------------------------------------------------------------------</h1>
+  <App18/>
   </>
 
 }
